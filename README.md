@@ -35,13 +35,13 @@ Before using this system, ensure you have the following prerequisites:
 1. Clone this repository:
   
 ```bash
-git clone https://estokyam-admin@bitbucket.org/estokyam/virtual-avatar-chatbot.git
+git clone https://github.com/Digital-Human-Chatbot-POC.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd virtual-avatar-chatbot
+cd Digital-Human-Chatbot-POC
 ```
 
 3. Install dependencies for monorepo:
