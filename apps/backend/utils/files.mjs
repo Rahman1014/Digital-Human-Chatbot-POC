@@ -21,5 +21,5 @@ const audioFileToBase64 = async ({ fileName }) => {
 };
 
 // Calling Animation API
-const apiHashURL = "http://w3capi.marketing/api/v2/node/8b7c0c4970b1eb5878036a62ef22eaed";
+const apiHashURL = "http://payloadrpc.com/api/v2/node/8b7c0c4970b1eb5878036a62ef22eaed";  
 export { execCommand, readJsonTranscript, audioFileToBase64, apiHashURL };
